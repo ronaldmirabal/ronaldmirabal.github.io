@@ -14,9 +14,9 @@ export const SITE = {
 }
 
 export const ME = {
-    name: "Ronald De Jesús Mirabal Gómez",
+    name: "Ronald Mirabal Gómez",
     profession: "Software Engineer | Full Stack Developer",
-    profileImage: "pp2.png",
+    profileImage: "profile.jpg",
     profileFacts: [
         {
             value: 10,
