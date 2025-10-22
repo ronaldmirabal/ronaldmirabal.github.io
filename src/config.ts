@@ -32,8 +32,8 @@ export const ME = {
         }
     ],
     contactInfo: {
-        email: "vicbox.dev@vicbox.dev",
-        linkedin: "https://www.linkedin.com/in/victor-alvaradohn",
+        email: "ronaldmiraba",
+        linkedin: "https://www.linkedin.com/in/ronaldmirabal",
         resumeDoc: "resume.pdf",
     },
     aboutMe: "I am a software engineer with a passion for web development. I have experience in building web " + "applications using modern technologies. I am a self-taught developer who enjoys learning new things and " + "sharing knowledge with others.",
@@ -42,19 +42,19 @@ export const ME = {
 export const SOCIALS = [
     {
         name: "Twitter",
-        url: "https://twitter.com/vicbox.dev",
+        url: "https://twitter.com/ronaldmirabalg",
         icon: "twitter-x-fill",
         show: true
     },
     {
         name: "Facebook",
-        url: "https://www.facebook.com/vicbox.dev",
+        url: "https://www.facebook.com/lic.ronaldmirabal",
         icon: "facebook-fill",
         show: false
     },
     {
         name: "Instagram",
-        url: "https://www.instagram.com/vicbox.dev",
+        url: "https://www.instagram.com/ronaldmirabal",
         icon: "instagram-fill",
         show: true
     },
@@ -62,7 +62,7 @@ export const SOCIALS = [
         name: "Youtube",
         url: "https://www.youtube.com/vicbox.dev",
         icon: "youtube-fill",
-        show: true
+        show: false
     },
     {
         name: "TikTok",
@@ -72,7 +72,7 @@ export const SOCIALS = [
     },
     {
         name: "GitHub",
-        url: "https://github.com/vicbox.dev",
+        url: "https://github.com/ronaldmirabal",
         icon: "github-fill",
         show: true
     }
